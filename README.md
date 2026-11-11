@@ -10,5 +10,3 @@
 | Lun-Bo001 | 图片轮播样式示例 | [在线预览](https://lin215a.github.io/Lun-Bo001/) | 10/24/2026 |
 | SAVED-LB | 保存的图片轮播组件 | [在线预览](https://lin215a.github.io/SAVED-LB/) | 10/24/2026 |
 | zhong | 交互式时钟页面 | [在线预览](https://lin215a.github.io/zhong/) | 10/24/2026 |
-| Lin215A.github.io | 原神角色与武器展示网站 | [在线预览](https://lin215a.github.io/) | 10/24/2026 |
-| YIWUYISHI | 易悟一世项目预留目录 | — | 10/24/2026 |
