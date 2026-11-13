@@ -44,8 +44,9 @@ window.SITE_CONFIG = {
     { url: G + "%E6%88%91%E7%9C%8B%E5%85%AD%E4%B9%A6",
       title: "我看六书", image: "liushu.jpg" },
 
-    // ↓↓↓ 添加模版 ↓↓↓
+    /* ↓↓↓ 添加模版 ↓↓↓
     { url: "网页的链接",
       title: "标题名字", image: "图片名字.jpg" },
+    */ 
   ]
 };
